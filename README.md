@@ -20,6 +20,6 @@ Untuk menguji apakah API berjalan sesuai dengan kriteria yang ada silahkan unduh
 
 Lalu import kedua berkas tersebut pada Postman untuk digunakan. Caranya, ekstrak berkas yang sudah diunduh hingga menghasilkan dua berkas file JSON. Setelah itu klik klik tombol import yang berada di atas panel kiri aplikasi Postman lalu klik tombol Upload Files untuk meng-import kedua berkas JSON hasil ekstraksi. 
 
-Proyek Bookshelf API harus memenuhi seluruh pengujian otomatis pada Postman request yang bertanda [Mandatory] seperti dokumentasi berikut
+Proyek Bookshelf API harus memenuhi seluruh pengujian otomatis pada Postman request yang bertanda [Mandatory] seperti dokumentasi berikut.
 
 ![Bookshelf API](https://user-images.githubusercontent.com/114632917/224010810-f799a158-0665-46ce-b930-9d61993b63c0.jpeg)
