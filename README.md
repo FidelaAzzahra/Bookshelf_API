@@ -10,3 +10,8 @@ Terdapat 7 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf 
 - Kriteria 5 : API dapat menampilkan detail buku
 - Kriteria 6 : API dapat mengubah data buku
 - Kriteria 7 : API dapat menghapus buku
+
+Untuk menguji apakah API berjalan sesuai dengan kriteria yang ada silahkan unduh berkas Postman Collection dan Environment yang dapat digunakan untuk pengujian melalui tautan berikut https://github.com/dicodingacademy/a261-backend-pemula-labs/raw/099-shared-files/BookshelfAPITestCollectionAndEnvironment.zip lalu import kedua berkas tersebut pada Postman untuk digunakan. Caranya, ekstrak berkas yang sudah diunduh hingga menghasilkan dua berkas file JSON.
+
+Setelah itu klik klik tombol import yang berada di atas panel kiri aplikasi Postman lalu klik tombol Upload Files untuk meng-import kedua berkas JSON hasil ekstraksi.
+
