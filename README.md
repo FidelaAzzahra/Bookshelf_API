@@ -1,6 +1,6 @@
 # Bookshelf_API
 
-PERHATIAN : Untuk menjalankan pastikan hapus dulu berkas node_modules. Dalam project ini berkas node_modules sengaja saya sertakan sebagai dokumentasi akhir.
+PERHATIAN : Untuk menjalankan pastikan hapus dulu berkas node_modules. Dalam proyek ini berkas node_modules sengaja saya sertakan sebagai dokumentasi akhir.
 
 Terdapat 7 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
 - Kriteria 1 : Aplikasi menggunakan port 9000
@@ -15,3 +15,4 @@ Untuk menguji apakah API berjalan sesuai dengan kriteria yang ada silahkan unduh
 
 Setelah itu klik klik tombol import yang berada di atas panel kiri aplikasi Postman lalu klik tombol Upload Files untuk meng-import kedua berkas JSON hasil ekstraksi.
 
+Proyek Bookshelf API harus memenuhi seluruh pengujian otomatis pada Postman request yang bertanda [Mandatory] seperti dokumentasi berikut:
