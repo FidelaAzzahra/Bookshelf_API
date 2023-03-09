@@ -25,7 +25,7 @@ Proyek Bookshelf API harus memenuhi seluruh pengujian otomatis pada Postman requ
 ![Bookshelf API](https://user-images.githubusercontent.com/114632917/224010810-f799a158-0665-46ce-b930-9d61993b63c0.jpeg)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-Submission akan ditolak apabila.
+Submission akan ditolak apabila:
 - Kriteria wajib Bookshelf API tidak terpenuhi.
 - Ketentuan berkas submission tidak terpenuhi.
 - Menggunakan port selain 9000.
