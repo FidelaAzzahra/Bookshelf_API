@@ -1,5 +1,5 @@
-# Bookshelf_API
-DBS Foundation Coding Camp 2023
+<h3>Bookshelf API</h3>
+<b>DBS Foundation Coding Camp 2023</b>
 
 PERHATIAN : Untuk menjalankan pastikan hapus dulu berkas node_modules. Dalam proyek ini berkas node_modules sengaja saya sertakan sebagai dokumentasi akhir.
 
